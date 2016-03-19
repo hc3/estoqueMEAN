@@ -1,0 +1,23 @@
+{
+  "name": "estoqueMEAN",
+  "version": "0.0.1",
+  "description": "sistema para controlar estoque e servicos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hc3/estoqueMEAN.git"
+  },
+  "keywords": [
+    "MEAN",
+    "javascript",
+    "Webschool"
+  ],
+  "author": "hc3",
+  "license": "hc3PL",
+  "bugs": {
+    "url": "https://github.com/hc3/estoqueMEAN/issues"
+  }
+}
